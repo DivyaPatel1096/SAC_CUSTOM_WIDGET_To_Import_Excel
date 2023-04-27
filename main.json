@@ -12,10 +12,18 @@
         {
 			"kind": "main",
 			"tag": "com-sap-sample-CUSTOMWidget",
+            "url": "https://divyapatel1096.github.io/SAC_CUSTOM_WIDGET_To_Import_Excel/main.js",
+            "integrity": "",
+            "ignoreIntegrity" : true
+        },
+	{
+			"kind": "styling",
+			"tag": "com-sap-sample-CUSTOMWidget1",
             "url": "https://divyapatel1096.github.io/SAC_CUSTOM_WIDGET_To_Import_Excel/file.html",
             "integrity": "",
             "ignoreIntegrity" : true
         }
+		
     ],
 	"properties": {
 	},
