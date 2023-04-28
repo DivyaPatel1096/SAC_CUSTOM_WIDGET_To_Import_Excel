@@ -1,8 +1,8 @@
 (function()  {
     let tmpl = document.createElement('template');
-    tmpl.innerHTML = `
-    `;
-    customElements.define('com.sap.sample.CUSTOMWidget', class HelloWorld1 extends HTMLElement {
+    tmpl.innerHTML = `<button type="button" id="myBtn">Browse</button>`
+    ;
+    customElements.define('com-sap-sample-CUSTOMWidget', class CUSTOMWidget extends HTMLElement {
 
 		constructor() {
 			super(); 
